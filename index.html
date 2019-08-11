@@ -14,15 +14,16 @@
                 document.getElementById("sidebar").classList.toggle('active');
                 document.getElementById("main-content").classList.toggle('moved');
             }
-            // function playSound(soundfile) {
-            //     // document.getElementById("dummy").innerHTML= "<audio><source src=\""+soundfile+"\" type=\"audio/mpeg\" hidden=\"true\" autostart=\"true\" loop=\"false\" /></audio>";
-            //     document.getElementById("dummy").innerHTML= "<audio><source src=\"./wav/click.mp3\" type=\"audio/mpeg\" autostart=\"true\" loop=\"false\" /></audio>";
-            // }
+            function playSound(soundfile=null) {
+                // document.getElementById("noise").play();
+            }
         </script>
     </head>
 
     <body>
-        <span id="dummy"></span>
+        
+        <audio id="noise" volume="0.1"><source src="./wav/tch.m4a" type="audio/mp4" autostart="false" loop="false"/></audio>
+
         <div id="sidebar">
             <div class="toggle-btn" onclick="toggleSidebar()">
                 <span></span>
@@ -30,10 +31,10 @@
                 <span></span>
             </div>
             <ul>
-                <a onmouseover="playSound('wav/click.mp3');" href="index.html"><li>Home</li></a>
+                <a onmouseover="playSound()" href="index.html"><li>Home</li></a>
                 <!-- <a href="#"><li>Projects</li></a> -->
                 <!-- <a href="#"><li>About</li></a> -->
-                <a href="contact.html"><li>Contact</li></a>
+                <a onmouseover="playSound()" href="contact.html"><li>Contact</li></a>
             </ul>
         </div>
 
@@ -50,7 +51,6 @@
                     <p>Elisabeth Finkel</p>
                     <p>B.A. Computer Science May 2021, Cornell University</p>
                 
-                    <!-- <audio><source src="./wav/click.mp3" type="audio/mpeg" autostart="true" loop="true" /></audio> -->
                 
             </div>
             
