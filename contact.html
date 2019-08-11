@@ -36,12 +36,29 @@
 
             <div id="main-content">
                 <p>Hello!</p>
-                <p>I'm a Computer Science student currently attending Cornell University.</p>
-                <p>I have worked largely as a backend developer but also have experience in scripting and full-stack development.</p>
-                <p>I also dabble in web design, as you can see.</p>
-                
-                
-                
+                <div id="contact-form">
+                    <form action="https://formspree.io/finkelelisabeth@gmail.com" method="POST">
+                        <div>
+                            <label for="name">Enter your name: </label><br>
+                            <input type="text" name="name" id="name" required>
+                        </div>
+                        <br>
+                        <div>
+                            <label for="email">Enter your email: </label><br>
+                            <input type="email" name="email" id="email" required>
+                        </div>
+                        <br>
+                        <div>
+                            <label for="message">Enter your message here:</label><br>
+                            <!-- <input type="text" name="message" id="message" required> -->
+                            <textarea name="message" cols="80" rows="5"></textarea>
+                        </div>
+                        <br>
+                        <div>
+                            <input type="submit" value="Submit">
+                        </div>
+                    </form>
+                </div>
             </div>
             <!-- <embed style="width: 100%" src="img/galaxy.gif"/> -->
             
