@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f812867dac84ed78ee7279d357c0e5ad",
+    "revision": "08570dec1c871cdf4c341e9e60fbdfe7",
     "url": "/index.html"
   },
   {
-    "revision": "2ff8474d1129ebf8056a",
-    "url": "/static/css/main.babf6885.chunk.css"
+    "revision": "cff552225f4457b73e11",
+    "url": "/static/css/main.afccff4a.chunk.css"
   },
   {
-    "revision": "0505d5bfab076d9d1e33",
-    "url": "/static/js/2.420076a6.chunk.js"
+    "revision": "b77928c7efcebc617a74",
+    "url": "/static/js/2.cb64137b.chunk.js"
   },
   {
-    "revision": "2ff8474d1129ebf8056a",
-    "url": "/static/js/main.67684096.chunk.js"
+    "revision": "cff552225f4457b73e11",
+    "url": "/static/js/main.a773c0f7.chunk.js"
   },
   {
     "revision": "c1817ca939957305cfb0",
     "url": "/static/js/runtime~main.ed2e170a.js"
+  },
+  {
+    "revision": "1cdf2d986dace2d8fcbb61cd6e74a848",
+    "url": "/static/media/SolarSystem.1cdf2d98.gif"
   },
   {
     "revision": "3fe02623ee36e02648f7283f00ab4d90",
