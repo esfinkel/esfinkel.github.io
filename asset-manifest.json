@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d7697b8.chunk.css",
-    "main.js": "/static/js/main.cbdb1f06.chunk.js",
-    "main.js.map": "/static/js/main.cbdb1f06.chunk.js.map",
+    "main.css": "/static/css/main.c5a35283.chunk.css",
+    "main.js": "/static/js/main.d77ea5b5.chunk.js",
+    "main.js.map": "/static/js/main.d77ea5b5.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.ed2e170a.js",
     "runtime~main.js.map": "/static/js/runtime~main.ed2e170a.js.map",
-    "static/js/2.f2988a45.chunk.js": "/static/js/2.f2988a45.chunk.js",
-    "static/js/2.f2988a45.chunk.js.map": "/static/js/2.f2988a45.chunk.js.map",
+    "static/js/2.0f49a3e1.chunk.js": "/static/js/2.0f49a3e1.chunk.js",
+    "static/js/2.0f49a3e1.chunk.js.map": "/static/js/2.0f49a3e1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.161ae88c04036c91b3324e98133d3b7b.js": "/precache-manifest.161ae88c04036c91b3324e98133d3b7b.js",
+    "precache-manifest.5e5fcf3a96442a463b162f00cffe250c.js": "/precache-manifest.5e5fcf3a96442a463b162f00cffe250c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0d7697b8.chunk.css.map": "/static/css/main.0d7697b8.chunk.css.map",
+    "static/css/main.c5a35283.chunk.css.map": "/static/css/main.c5a35283.chunk.css.map",
     "static/media/Elisabeth_Finkel_resume.png": "/static/media/Elisabeth_Finkel_resume.94d275ad.png",
     "static/media/Elisabeth_Finkel_resume.pdf": "/static/media/Elisabeth_Finkel_resume.a886622f.pdf",
     "static/media/SolarSystem.gif": "/static/media/SolarSystem.1cdf2d98.gif",
     "static/media/Tree.png": "/static/media/Tree.3fe02623.png",
+    "static/media/dog.jpg": "/static/media/dog.8da0d9ce.jpg",
     "static/media/game_of_life.png": "/static/media/game_of_life.4b250e99.png",
+    "static/media/grammar.png": "/static/media/grammar.3e742c6c.png",
     "static/media/netprint-web.png": "/static/media/netprint-web.83811d85.png",
     "static/media/page_not_found.png": "/static/media/page_not_found.790cfac0.png",
-    "static/media/pointer.png": "/static/media/pointer.f66c4cc2.png"
+    "static/media/pointer.png": "/static/media/pointer.f66c4cc2.png",
+    "static/media/recital.jpg": "/static/media/recital.8db58445.jpg",
+    "static/media/taipei_symph.jpg": "/static/media/taipei_symph.7f6cdcae.jpg",
+    "static/media/taipei_symph_reh.jpg": "/static/media/taipei_symph_reh.d2bd53f8.jpg",
+    "static/media/vocab.png": "/static/media/vocab.697e7606.png"
   }
 }
