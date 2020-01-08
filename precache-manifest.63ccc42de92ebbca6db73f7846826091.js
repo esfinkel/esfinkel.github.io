@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61117e049223b8a7bf5a3a8df07f382d",
+    "revision": "8593960aa2bdec9371e7268d282520ac",
     "url": "/index.html"
   },
   {
-    "revision": "044304ff672e0e575e26",
-    "url": "/static/css/main.3dde6355.chunk.css"
+    "revision": "d4600625045a8c33ef3f",
+    "url": "/static/css/main.a8a24fdb.chunk.css"
   },
   {
-    "revision": "eac9378f40b3881b5a4c",
-    "url": "/static/js/2.71071119.chunk.js"
+    "revision": "2605b46aa99463810392",
+    "url": "/static/js/2.a44fe2f7.chunk.js"
   },
   {
-    "revision": "044304ff672e0e575e26",
-    "url": "/static/js/main.5f4a083e.chunk.js"
+    "revision": "d4600625045a8c33ef3f",
+    "url": "/static/js/main.4ce82c4f.chunk.js"
   },
   {
     "revision": "c1817ca939957305cfb0",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/page_not_found.790cfac0.png"
   },
   {
-    "revision": "f66c4cc2fb7b23b8e3eb199fd890f3cc",
-    "url": "/static/media/pointer.f66c4cc2.png"
-  },
-  {
     "revision": "8db5844552112da408978c9747aab6f5",
     "url": "/static/media/recital.8db58445.jpg"
+  },
+  {
+    "revision": "e412fd43ab185e6e1d77a5880b885e6d",
+    "url": "/static/media/squig-horz-blue.e412fd43.png"
   },
   {
     "revision": "7f6cdcaeb2b8da2d20a1e22e1e9be9aa",
