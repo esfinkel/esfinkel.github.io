@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb7c51ff13c104054b77c8d05d849bcc",
+    "revision": "ed70d58a4695ff3b2db97f23dca0e47a",
     "url": "/index.html"
   },
   {
-    "revision": "f9ea29d11eba69498b83",
-    "url": "/static/css/main.5bd77c57.chunk.css"
+    "revision": "7b13a84071fabeba3c1d",
+    "url": "/static/css/main.fd0e7ca1.chunk.css"
   },
   {
-    "revision": "f48c774a466914a6570f",
-    "url": "/static/js/2.db75de7a.chunk.js"
+    "revision": "76cdc35222df9195883a",
+    "url": "/static/js/2.9a7abb09.chunk.js"
   },
   {
-    "revision": "f9ea29d11eba69498b83",
-    "url": "/static/js/main.d23bef46.chunk.js"
+    "revision": "7b13a84071fabeba3c1d",
+    "url": "/static/js/main.b41ec2ad.chunk.js"
   },
   {
     "revision": "c1817ca939957305cfb0",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8db5844552112da408978c9747aab6f5",
     "url": "/static/media/recital.8db58445.jpg"
-  },
-  {
-    "revision": "e412fd43ab185e6e1d77a5880b885e6d",
-    "url": "/static/media/squig-horz-blue.e412fd43.png"
   },
   {
     "revision": "7f6cdcaeb2b8da2d20a1e22e1e9be9aa",
