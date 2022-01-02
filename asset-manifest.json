@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.30d301c1.chunk.css",
-    "main.js": "/static/js/main.d17d2cbb.chunk.js",
-    "main.js.map": "/static/js/main.d17d2cbb.chunk.js.map",
+    "main.css": "/static/css/main.0d4c18af.chunk.css",
+    "main.js": "/static/js/main.b732187c.chunk.js",
+    "main.js.map": "/static/js/main.b732187c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2c702d9.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2c702d9.js.map",
     "static/js/2.a8e792b0.chunk.js": "/static/js/2.a8e792b0.chunk.js",
     "static/js/2.a8e792b0.chunk.js.map": "/static/js/2.a8e792b0.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.30d301c1.chunk.css.map": "/static/css/main.30d301c1.chunk.css.map",
+    "static/css/main.0d4c18af.chunk.css.map": "/static/css/main.0d4c18af.chunk.css.map",
     "static/js/2.a8e792b0.chunk.js.LICENSE.txt": "/static/js/2.a8e792b0.chunk.js.LICENSE.txt",
     "static/media/Elisabeth_Finkel_resume.pdf": "/static/media/Elisabeth_Finkel_resume.2d6a1915.pdf",
     "static/media/Elisabeth_Finkel_resume.png": "/static/media/Elisabeth_Finkel_resume.51c2e2f6.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2c702d9.js",
     "static/js/2.a8e792b0.chunk.js",
-    "static/css/main.30d301c1.chunk.css",
-    "static/js/main.d17d2cbb.chunk.js"
+    "static/css/main.0d4c18af.chunk.css",
+    "static/js/main.b732187c.chunk.js"
   ]
 }
